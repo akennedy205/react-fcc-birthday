@@ -6,3 +6,6 @@
 - run `npm install`
 - then `npm audit fix`
 - then `npm start`
+
+
+- for testing then `npx wdio .`
